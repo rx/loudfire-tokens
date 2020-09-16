@@ -1,0 +1,76 @@
+{
+  "color": {
+    "primary": {
+      "zero": { "value": "#002159" },
+      "one": { "value": "#01337D" },
+      "two": { "value": "#03449E" },
+      "three": { "value": "#0552B5" },
+      "four": { "value": "#0967D2" },
+      "five": { "value": "#2186EB" },
+      "six": { "value": "#47A3F3" },
+      "seven": { "value": "#7CC4FA" },
+      "eight": { "value": "#BAE3FF" },
+      "nine": { "value": "#E6F6FF" }
+    },
+    "neutral": {
+      "zero": { "value": "#1F2933" },
+      "one": { "value": "#323F4B" },
+      "two": { "value": "#3E4C59" },
+      "three": { "value": "#52606D" },
+      "four": { "value": "#616E7C" },
+      "five": { "value": "#7B8794" },
+      "six": { "value": "#9AA5B1" },
+      "seven": { "value": "#CBD2D9" },
+      "eight": { "value": "#E4E7EB" },
+      "nine": { "value": "#F5F7FA" }
+    },
+    "accent": {
+      "zero": { "value": "#841003" },
+      "one": { "value": "#AD1D07" },
+      "two": { "value": "#C52707" },
+      "three": { "value": "#DE3A11" },
+      "four": { "value": "#F35627" },
+      "five": { "value": "#F9703E" },
+      "six": { "value": "#FF9466" },
+      "seven": { "value": "#FFB088" },
+      "eight": { "value": "#FFD0B5" },
+      "nine": { "value": "#FFE8D9" }
+    },
+    "info": {
+      "zero": { "value": "#05606E" },
+      "one": { "value": "#07818F" },
+      "two": { "value": "#099AA4" },
+      "three": { "value": "#0FB5BA" },
+      "four": { "value": "#1CD4D4" },
+      "five": { "value": "#3AE7E1" },
+      "six": { "value": "#62F4EB" },
+      "seven": { "value": "#92FDF2" },
+      "eight": { "value": "#C1FEF6" },
+      "nine": { "value": "#E1FCF8" }
+    },
+    "warn": {
+      "zero": { "value": "#8D2B0B" },
+      "one": { "value": "#B44D12" },
+      "two": { "value": "#CB6E17" },
+      "three": { "value": "#DE911D" },
+      "four": { "value": "#F0B429" },
+      "five": { "value": "#F7C948" },
+      "six": { "value": "#FADB5F" },
+      "seven": { "value": "#FCE588" },
+      "eight": { "value": "#FFF3C4" },
+      "nine": { "value": "#FFFBEA" }
+    },
+    "error": {
+      "zero": { "value": "#610316" },
+      "one": { "value": "#8A041A" },
+      "two": { "value": "#AB091E" },
+      "three": { "value": "#CF1124" },
+      "four": { "value": "#E12D39" },
+      "five": { "value": "#EF4E4E" },
+      "six": { "value": "#F86A6A" },
+      "seven": { "value": "#FF9B9B" },
+      "eight": { "value": "#FFBDBD" },
+      "nine": { "value": "#FFE3E3" }
+    }
+  }
+}

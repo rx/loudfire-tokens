@@ -1,0 +1,12 @@
+{
+  "color": {
+    "font": {
+      "primary"     : { "value": "{color.primary.zero.value}" },
+      "neutral"     : { "value": "{color.neutral.zero.value}" },
+      "accent": { "value": "{color.accent.zero.value}" },
+      "info" : { "value": "{color.info.zero.value}" },
+      "warn" : { "value": "{color.warn.zero.value}" },
+      "error" : { "value": "{color.error.zero.value}" }
+    }
+  }
+}
